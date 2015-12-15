@@ -1,0 +1,31 @@
+{
+  "name": "gobble-flatten",
+  "version": "1.0.0",
+  "description": "Simple gobble transform that flattens all files into top-level directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martypdx/gobble-flatten.git"
+  },
+  "keywords": [
+    "gobble",
+    "flatten",
+    "files",
+    "directory"
+  ],
+  "author": "Marty Nelson <marty@martypdx.com> (@martypdx)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martypdx/gobble-flatten/issues"
+  },
+  "homepage": "https://github.com/martypdx/gobble-flatten#readme",
+  "dependencies": {
+    "sander": "^0.4.0"
+  },
+  "devDependencies": {
+    "gobble-test": "^0.1.1"
+  }
+}
