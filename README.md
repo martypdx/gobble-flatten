@@ -64,4 +64,4 @@ Uses [sander](https://github.com/rich-harris/sander) for recursive directory lis
 
 ## License
 
-MIT. Copyright 2015 Marty Nelson
+[MIT](https://opensource.org/licenses/MIT). Copyright 2016 Marty Nelson
